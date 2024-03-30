@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+}
+
+.navbar-space-between {
+  justify-content: space-between;
+}
